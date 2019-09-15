@@ -1,4 +1,6 @@
 # Project 5
+
+Authored by: Sean Bjork, Melissa Delvin, Trevor McElhaney, and Brian Young
 ## Problem Statement
 In the event of a disaster, it is essential that goverment and private forces rapidly identify potential threats and communicate damage and rescue efforts effectively. The Federal Emergency Management Agency, known as FEMA, has developed a list of seven lifelines which represent establishments most essential to supporting human populations during times of crisis. The lifelines are as follows: safety and security; food, water, and sheltering; health and medical; energy; communications; transportation; and hazardous waste. With these seven lifelines in mind, our study was conducted for New Light Technologies with two goals:
 
@@ -45,7 +47,6 @@ The second stage is a reactionary approach to an event shortly after it begins. 
 
 
 In addition to the tool located in the Jupyter Notebooks, as an end user tool, a web app was built to allow for a quick view of businesses within a specified radius of the selected event center, filtered by FEMA category. The web app runs entirely in the browser with no server-side coding needed and utilizes json-format files generated from our models, consumed and processed by Javascript and HTML. Below is an image of the capabilities of the online tool.  
-
 
 ![](./images/P5_ss3.png)
 
